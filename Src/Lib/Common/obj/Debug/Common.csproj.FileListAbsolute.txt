@@ -1,0 +1,14 @@
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\bin\Debug\Common.dll
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\bin\Debug\Common.pdb
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\bin\Debug\log4net.dll
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\bin\Debug\protobuf-net.dll
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\bin\Debug\Protocol.dll
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\bin\Debug\UnityEngine.dll
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\bin\Debug\Protocol.pdb
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\bin\Debug\log4net.xml
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\bin\Debug\protobuf-net.xml
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\obj\Debug\Common.csproj.CopyComplete
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\obj\Debug\Common.dll
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Common\obj\Debug\Common.pdb

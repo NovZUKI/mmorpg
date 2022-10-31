@@ -1,0 +1,9 @@
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Protocol\bin\Debug\Protocol.dll
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Protocol\bin\Debug\Protocol.pdb
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Protocol\bin\Debug\protobuf-net.dll
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Protocol\bin\Debug\protobuf-net.xml
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CopyComplete
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Protocol\obj\Debug\Protocol.dll
+D:\Git_test\mmorpg1\mmorpg_learning\Src\Lib\Protocol\obj\Debug\Protocol.pdb

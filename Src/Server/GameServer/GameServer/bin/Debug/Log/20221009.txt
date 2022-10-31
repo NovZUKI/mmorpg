@@ -1,0 +1,11 @@
+
+2022-10-09 17:39:47,092 [1] [INFO ] [GameServer] £ºGame Server Init
+2022-10-09 17:40:07,128 [1] [INFO ] [GameServer] £ºGame Server Exiting...
+2022-10-09 17:40:07,169 [1] [INFO ] [GameServer] £ºGame Server Exited
+2022-10-09 22:08:59,665 [1] [INFO ] [GameServer] £ºGame Server Init
+2022-10-09 22:26:29,734 [1] [INFO ] [GameServer] £ºGame Server Init
+2022-10-09 22:38:06,115 [1] [INFO ] [GameServer] £ºGame Server Init
+2022-10-09 22:38:58,128 [1] [INFO ] [GameServer] £ºGame Server Init
+2022-10-09 22:41:24,473 [1] [INFO ] [GameServer] £ºGame Server Init
+2022-10-09 22:42:58,094 [1] [INFO ] [GameServer] £ºGame Server Init
+2022-10-09 23:16:59,726 [1] [INFO ] [GameServer] £ºGame Server Init
